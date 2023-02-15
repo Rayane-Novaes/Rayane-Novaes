@@ -23,6 +23,8 @@
 <div align="center">
   <a href="https://github.com/Rayane-Novaes"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayane-Novaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane-Novaes&layout=compact)](https://github.com/Rayane-Novaes?tab=repositories)
+   
 </div>
  
   
