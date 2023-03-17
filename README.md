@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/Rayane-Novaes"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayane-Novaes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane-Novaes&true&theme=midnight-purple&layout=compact)](https://github.com/Rayane-Novaes?tab=repositories)
+[![Rayane Status](https://github-readme-stats.vercel.app/api?username=Rayane-Novaes&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/thomasdacosta?tab=repositories) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane-Novaes&true&theme=midnight-purple&layout=compact)](https://github.com/Rayane-Novaes?tab=repositories)
  
 </div>
 
