@@ -17,21 +17,9 @@
  
 </div>
 
- ## ##
 
 
-<div align="center">
 
-[![Rayane Status](https://github-readme-stats.vercel.app/api?username=Rayane-Novaes&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/Rayane-Novaes?tab=repositories) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane-Novaes&true&theme=midnight-purple&layout=compact)](https://github.com/Rayane-Novaes?tab=repositories)
- 
-</div>
-
-<div align="center">
-
- 
-  
-</div>
- 
   
    
  
