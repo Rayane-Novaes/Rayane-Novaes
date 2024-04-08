@@ -1,33 +1,30 @@
 
 
- 
- <div align="center">
-    <h1>  ˚✧  Olá, eu sou a Rayane!  ˚✧   </h1>
-  <p> Estudante de análise e desenvolvimento de sistemas 💻</p>
-  
-</div>
+
+#   ˚✧ Olá, eu sou a Rayane! ˚✧
+
+<br>
+
+### ⟡ Sobre mim
+
+Sou formada em Análise e desenvolvimento de sistemas pelo Centro Universitário SENAC. Atualmente trabalho na empresa Accenture como desenvolvedora Pleno utilizado a linguagem de progração Python.
+
+<br>
+
+### ⟡ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-7f00b2?style=for-the-badge&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-7f00b2?style=for-the-badge&logo=django&logoColor=write) ![Flask](https://img.shields.io/badge/Flask-7f00b2?style=for-the-badge&logo=flask&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-7f00b2?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+<br>
+
+### ⟡ Redes sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-bc4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-novaes/) [![Email](https://img.shields.io/badge/Gmail-bc4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayanenovaes25@gmail.com)
+
+<br>
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayane-Novaes&show_icons=true&theme=transparent&title_color=bc4ed8&icon_color=f988ff&text_color=7f00b2&border_color=f988ff)
 
 
-<div align="center">
-
- <h3>Contato</h3>
- 
-<a href="mailto:rayanenovaes25@gmail.com"> <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a  href="https://www.linkedin.com/in/rayane-novaes/"> <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a  href="https://www.instagram.com/rayy_novaes/"> <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
- 
- 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayane-Novaes&show_icons=true&theme=dracula&line_height=28px)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane-Novaes&layout=donut&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-  
-   
- 
- 
- 
-  
-  
-  
- 
 
