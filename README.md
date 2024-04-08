@@ -17,7 +17,7 @@ Sou formada em Análise e desenvolvimento de sistemas pelo Centro Universitário
 
 <br>
 
-### ⟡ Redes sociais
+### ⟡ Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-bc4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-novaes/) [![Email](https://img.shields.io/badge/Gmail-bc4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayanenovaes25@gmail.com)
 
