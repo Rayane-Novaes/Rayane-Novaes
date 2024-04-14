@@ -24,7 +24,6 @@ Sou formada em Análise e desenvolvimento de sistemas pelo Centro Universitário
 <br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayane-Novaes&show_icons=true&theme=transparent&title_color=bc4ed8&icon_color=f988ff&text_color=7f00b2&border_color=f988ff)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayane-Novaes&show_icons=true&theme=transparent&title_color=bc4ed8&icon_color=f988ff&text_color=bc4ed8&border_color=f988ff)
 
 
